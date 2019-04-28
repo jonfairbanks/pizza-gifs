@@ -22,7 +22,8 @@ $(document).ready(function() {
 			"&tag=" +
 			giphy.tag +
 			"&rating=" +
-			giphy.rating
+			giphy.rating +
+			"&callback=?"
 	);
 
 	// Call Giphy API and render data
