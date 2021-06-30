@@ -5,5 +5,3 @@
 Randomly display GIPHY GIFs in your browser. 
 
 To get started, set a GIPHY API Token in _js/index.js_. 
-
-Demo: https://fairbanks.io/🍕
